@@ -1,0 +1,27 @@
+{
+  "context": "server",
+  "identifier": "com.pa.tommie55555.commander-higher-health-unarmed",
+  "display_name": "Commander has higher health but is unarmed",
+  "description": "Increases the commander HP x10 but removes his capability to kill stuff. Also increases his speed by 50%.",
+  "author": "Tommie55555",
+  "version": "1.0.0",
+  "build": "0",
+  "date": "2019/06/23",
+  "signature": " ",
+  "forum": "Nolink",
+  "category": [
+    "ai",
+    "classic",
+    "titans"
+  ],
+  "icon": " sorry no icon today ",
+  "scenes": {
+    "new_game": [
+      "coui://ui/mods/com.pa.tommie55555.commander-higher-health-unarmed/new_game.js"
+    ]
+  },
+  "dependencies": [
+  ],
+  "priority": 50,
+  "titansOnly": true
+}
